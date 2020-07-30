@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Urban Dictionary Android</string>
+    <string name="enter_a_term">Enter a term</string>
+    <string name="word">Word</string>
+    <string name="definition">Definition</string>
+    <string name="dislikes">dislikes</string>
+    <string name="likes">likes</string>
+</resources>
